@@ -1,0 +1,160 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+  .mainbox {
+    width: 1000px;
+    background-color: white;
+    padding: 30px;
+    border: 3px solid white;
+    margin: 20px;
+    text-align: left;
+  }
+
+  .topbar1 {
+    background-color: gray;
+    width: 100px;
+    height: 35px;
+    padding-top: 6px;
+    margin-bottom: 40px;
+    text-align: right;
+    color: white;
+    float: left;
+  }
+  .topbar2 {
+    background-color: gray;
+    width: 830px;
+    height: 35px;
+    padding-top: 6px;
+    margin-bottom: 40px;
+    color: black;
+    float: left;
+  }
+
+  .midbar {
+    background-color: gray;
+    width: 930px;
+    height: 35px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    float: left;
+  }
+
+  .botbar1 {
+    background-color: gray;
+    width: 465px;
+    height: 35px;
+    padding-top: 6px;
+    padding-left: 3px;
+    margin-top: 10px;
+    float: left;
+  }
+
+  .botbar2 {
+    background-color: gray;
+    width: 465px;
+    height: 35px;
+    padding: 2px;
+    padding-left: 240px;
+    margin-top: 10px;
+    float: left;
+  }
+
+  .textbox {
+    background-color: darkblue;
+    width: 105px;
+    height: 130px;
+    padding-top: 110px;
+    padding-left: 5px;
+    margin: 1px;
+    color: white;
+    float: left;
+  }
+
+  .blankbox {
+    background-color: white;
+    width: 105px;
+    height: 130px;
+    margin: 1px;
+    float: left;
+  }
+
+  .picbox {
+    background-color: lightgray;
+    width: 105px;
+    height: 130px;
+    margin: 1px;
+    float: left;
+  }
+
+  .alignbox {
+    background-color: white;
+    width: 32px;
+    height: 130px;
+    margin: 1px;
+    float: left;
+  }
+
+  .secbottom {
+    background-color: lightgrey;
+    width: 930px;
+    height: 200px;
+    float: left;
+  }
+
+  .bottombox {
+    background-color: lightgrey;
+    width: 230px;
+    height: 190px;
+    padding: 8px;
+    margin: 1px;
+    color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+  }
+
+  nav a:link {
+    color: white;
+    text-decoration: none;
+  }
+
+  nav a:visited {
+    color: lightgray;
+
+  }
+
+  nav a:hover {
+    color: lightblue;
+    background-color: blue;
+  }
+
+  main a:link {
+    color: black;
+    
+  }
+
+  main a:visited {
+    color: black;
+
+  }
+
+  main a:hover {
+    color: lightblue;
+    background-color: blue;
+  }
+
+  footer a:link {
+    text-decoration: none;
+  }
+
+  .bold-text {
+    color: darkslategray;
+    font-weight: 1000;
+  }
