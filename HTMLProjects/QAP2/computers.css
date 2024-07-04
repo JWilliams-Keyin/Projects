@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .mainbox {
+    width: 1000px;
+    background-color: white;
+    padding: 30px;
+    border: 3px solid gray;
+    margin: 20px;
+    text-align: left;
+  }
+
+  .rightpicbox {
+    width: 180px;
+    height: 250px;
+    float: right;
+  }
+
+  .linepicbox {
+    width: 180px;
+    height: 200px;
+    float: left;
+  }
+
+  .diffsec {
+    background-color: silver;
+    padding: 20px;
+  }
+
+  .navtext {
+    font-size: 20px;
+  }
+
+  nav a:link {
+    color: black;
+    text-decoration: none;
+  }
+
+  nav a:visited {
+    color: black;
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: black;
+    background-color: lightblue;
+    text-decoration: underline;
+  }
+
+  main a:link {
+    color: navy;
+  }
+
+  main a:visited {
+    color: navy;
+  }
+
+  main a:hover {
+    color: blue;
+    background-color: lightblue;
+  }
+
+  footer a:link {
+    color: black;
+    
+  }
+
+  footer a:visited {
+    color: grey;
+
+  }
+
+  footer a:hover {
+    color: black;
+    background-color: lightblue;
+  }
+
+  .boldtext {
+    font-weight: 1000;
+  }
+
+  .italictext {
+    font-style: italic;
+  }
+
+  .underlinedtext {
+    text-decoration: underline;
+  }
